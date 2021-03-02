@@ -1,0 +1,11 @@
+C:\Users\Korisnik\source\repos\svanTipuricProvjeraZnanja\svanTipuricProvjeraZnanja\bin\Debug\svanTipuricProvjeraZnanja.exe.config
+C:\Users\Korisnik\source\repos\svanTipuricProvjeraZnanja\svanTipuricProvjeraZnanja\bin\Debug\svanTipuricProvjeraZnanja.exe
+C:\Users\Korisnik\source\repos\svanTipuricProvjeraZnanja\svanTipuricProvjeraZnanja\bin\Debug\svanTipuricProvjeraZnanja.pdb
+C:\Users\Korisnik\source\repos\svanTipuricProvjeraZnanja\svanTipuricProvjeraZnanja\obj\Debug\svanTipuricProvjeraZnanja.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\svanTipuricProvjeraZnanja\svanTipuricProvjeraZnanja\obj\Debug\svanTipuricProvjeraZnanja.Form1.resources
+C:\Users\Korisnik\source\repos\svanTipuricProvjeraZnanja\svanTipuricProvjeraZnanja\obj\Debug\svanTipuricProvjeraZnanja.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\svanTipuricProvjeraZnanja\svanTipuricProvjeraZnanja\obj\Debug\svanTipuricProvjeraZnanja.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\svanTipuricProvjeraZnanja\svanTipuricProvjeraZnanja\obj\Debug\svanTipuricProvjeraZnanja.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\svanTipuricProvjeraZnanja\svanTipuricProvjeraZnanja\obj\Debug\svanTipuricProvjeraZnanja.exe
+C:\Users\Korisnik\source\repos\svanTipuricProvjeraZnanja\svanTipuricProvjeraZnanja\obj\Debug\svanTipuricProvjeraZnanja.pdb
+C:\Users\Korisnik\source\repos\svanTipuricProvjeraZnanja\svanTipuricProvjeraZnanja\obj\Debug\svanTipuricProvjeraZnanja.Unos.resources
